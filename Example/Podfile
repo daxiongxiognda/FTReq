@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTReq_Tests' do
+  pod 'FTReq', :path => '../'
+  
+  
+end
